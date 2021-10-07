@@ -1,0 +1,21 @@
+.bleu{
+  background-color: rgb(56, 56, 116);  
+}
+.titre{
+  font-size: 20px;
+  margin-left: 20PX;
+}
+.rose{
+  background-color: rgb(161, 55, 147);
+}
+.rouge{
+  background: rgb(194, 43, 68);
+}
+/*truc a remplir*/
+.okay{
+  margin-left: 40px;
+}
+/*coche*/
+.many{
+  margin-left: 100px;
+}
